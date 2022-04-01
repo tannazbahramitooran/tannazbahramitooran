@@ -2,6 +2,8 @@
 
 ### find me here
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tannazbahramitooran)
+[![GMail](https://img.shields.io/badge/gmail-f0f0f0?&style=for-the-badge&logo=gmail&logoColor=white&color=ea4335)](mailto:tz.bahrami@gmail.com)
+[![Yahoo](https://img.shields.io/badge/yahoo-blueviolet?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:tz.bahrami@yahoo.com)
 
 ## Core Competencies and Skills
 
