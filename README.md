@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Tannaz 👋
 
 ### find me here
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tannazbahramitooran)
@@ -11,7 +11,7 @@
 
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-000?style=flat&logo=elasticsearch&logoColor=005571)
 
-### Front-End Skills:
+### Client-side Skills:
 
 ![VueJS](https://img.shields.io/badge/-Vue-000?style=flat&logo=Vue.js&logoColor=4fc08d)
 ![AngularJS](https://img.shields.io/badge/-AngularJS-000?&logo=AngularJS&logoColor=red)
@@ -22,10 +22,13 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap&logoColor=blueviolet)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
 
-### Back-End Skills:
+### Server-side Skills:
 
 ![C#](https://img.shields.io/badge/-C%23-blueviolet?&logo=C%23&logoColor=blueviolet)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
+
+### Other development Skills:
+- API Design
+- API Integration
 
 ### IDEs:
 
@@ -39,7 +42,7 @@
 ![MySql](https://img.shields.io/badge/-MySql-000?&logo=MySQL&logoColor=007ACC)
 
 ### DevOps Skills:
-- Docker
+- Docker/Docker Compose
 
 <!--
 **tannazbahramitooran/tannazbahramitooran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
