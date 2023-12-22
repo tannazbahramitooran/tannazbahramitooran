@@ -43,7 +43,7 @@
 
 ### DevOps Skills:
 - Docker/Docker Compose
-
+- Grafana - Prometheus - ELK
 <!--
 **tannazbahramitooran/tannazbahramitooran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
